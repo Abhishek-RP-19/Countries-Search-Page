@@ -10,7 +10,7 @@ The *Countries Search Page* is a simple and responsive web application that allo
 
 - *HTML5* – Structure and content  
 - *CSS3* – Styling and layout  
-- *JavaScript 
+- *JavaScript* 
 
 ---
 
@@ -60,4 +60,3 @@ Explore the project here:
 ## 8. License
 
 This project is licensed under the *MIT License*.  
-You can use, modify, and distribute it for personal or educational purposes.
